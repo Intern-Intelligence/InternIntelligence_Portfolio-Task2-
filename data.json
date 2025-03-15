@@ -30,8 +30,8 @@
       "link": "https://github.com/Malik-M-Umair/PDF-merger"
     },
     {
-    "image": "https://ariesian-tech.github.io/MyPortfolio//pdf /bul.jpg",
-      "badge": "Bulk Rename",
+    "image": "https://ariesian-tech.github.io/MyPortfolio//pdf //bul.jpg",
+      "badge": "aBulk Rename",
       "title": "I have created a Node.js script to bulk rename files on the desktop. It automatically replaces file names using the fs and path modules. 🚀",
       "link": "https://github.com/Malik-M-Umair/Bulk-renamer"
     }
