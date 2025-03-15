@@ -12,10 +12,22 @@
       "link": "https://ariesian-tech.github.io/E-Commerce/"
     },
     {
+      "image": "https://ariesian-tech.github.io/MyPortfolio//movies.png",
+      "badge": "Movies Searcher",
+      "title": "Thrilled to share my portfolio, showcasing my journey as a Frontend Developer! 🚀✨ It highlights my projects, skills, and passion for creating modern, responsive, and engaging web experiences. 💻🎨🔥",
+      "link": "https://github.com/Malik-M-Umair/Linkup"
+    },
+    {
       "image": "https://ariesian-tech.github.io/MyPortfolio//app.png",
       "badge": "Desktop app",
       "title": "LinkUp is a Java-based communication app with a database for efficient user data management, offering posting, likes, comments, and password reset features. 💬📱",
-      "link": "https://github.com/Malik-M-Umair/Linkup"
+      "link": "https://ariesian-tech.github.io/Movies/"
+    },
+    {
+      "image": "https://ariesian-tech.github.io/MyPortfolio//pdf merger.png",
+      "badge": "PDF Merger",
+      "title": "I recently built a PDF Merger Web App using Node.js and Express.js, a simple yet powerful tool that allows users to combine multiple PDFs into a single document within seconds.",
+      "link": "https://github.com/Malik-M-Umair/PDF-merger"
     }
    
   ]
