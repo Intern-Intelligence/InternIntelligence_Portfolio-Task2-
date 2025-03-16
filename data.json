@@ -31,7 +31,7 @@
     },
     {
     "image": "https://ariesian-tech.github.io/MyPortfolio//pdf nodejs.png",
-      "badge": "aBulk Rename",
+      "badge": "bBulk Rename",
       "title": "I have created a Node.js script to bulk rename files on the desktop. It automatically replaces file names using the fs and path modules. 🚀",
       "link": "https://github.com/Malik-M-Umair/Bulk-renamer"
     }
