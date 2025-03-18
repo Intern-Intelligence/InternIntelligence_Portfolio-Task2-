@@ -24,7 +24,7 @@
       "link": "https://ariesian-tech.github.io/Movies/"
     },
     {
-      "image": "https://ariesian-tech.github.io/MyPortfolio//merger.png",
+      "image": "https://ariesian-tech.github.io/MyPortfolio//pdf merger.png",
       "badge": "PDF Merger",
       "title": "I recently built a PDF Merger Web App using Node.js and Express.js, a simple yet powerful tool that allows users to combine multiple PDFs into a single document within seconds.",
       "link": "https://github.com/Malik-M-Umair/PDF-merger"
