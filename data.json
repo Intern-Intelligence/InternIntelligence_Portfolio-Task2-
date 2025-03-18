@@ -24,13 +24,13 @@
       "link": "https://ariesian-tech.github.io/Movies/"
     },
     {
-      "image": "https://ariesian-tech.github.io/MyPortfolio//pdf merger.png",
+      "image": "https://ariesian-tech.github.io/MyPortfolio//merger.png",
       "badge": "PDF Merger",
       "title": "I recently built a PDF Merger Web App using Node.js and Express.js, a simple yet powerful tool that allows users to combine multiple PDFs into a single document within seconds.",
       "link": "https://github.com/Malik-M-Umair/PDF-merger"
     },
     {
-    "image": "https://ariesian-tech.github.io/MyPortfolio//pdfnodejs.png",
+    "image": "https://ariesian-tech.github.io/MyPortfolio//nodejs.png",
       "badge": "Bulk Rename",
       "title": "I have created a Node.js script to bulk rename files on the desktop. It automatically replaces file names using the fs and path modules. 🚀",
       "link": "https://github.com/Malik-M-Umair/Bulk-renamer"
