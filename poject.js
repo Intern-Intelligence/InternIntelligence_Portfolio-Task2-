@@ -53,3 +53,23 @@
     })})
     .catch(error => console.error('Error loading data:', error));
 
+    document.getElementById("send-btn").addEventListener("click", function() {
+      // Show modal
+      document.getElementById("modal").style.display = "flex";
+
+      // Clear form fields
+      document.getElementById("name").value = "";
+      document.getElementById("mail").value = "";
+      document.getElementById("message").value = "";
+  });
+
+  document.getElementById("close-btn").addEventListener("click", function() {
+      document.getElementById("modal").style.display = "none";
+  });
+
+  document.getElementById("reset-btn").addEventListener("click", function() {
+      // Just reset fields, no modal
+      document.getElementById("name").value = "";
+      document.getElementById("mail").value = "";
+      document.getElementById("message").value = "";
+  });
