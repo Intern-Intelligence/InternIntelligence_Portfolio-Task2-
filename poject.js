@@ -15,7 +15,7 @@
         // Create the card content
         cardItem.innerHTML = `
           <a href="${item.link}" class="card-link">
-            <img src="${item.image}" alt="Card Image" class="card-image">
+            <img src="${item.image}" alt="Card Image" class="card-image" loading="lazy">
             <p class="badge badge-${item.badge.toLowerCase()}">${item.badge}</p>
             <h2 class="card-title">${item.title}</h2>
             <button class="card-button material-symbols-rounded">arrow_forward</button>
